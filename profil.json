@@ -1,0 +1,15 @@
+{
+  "jmeno": "Tomas Knotek",
+  "vek": 18,
+  "je_plnolety": true,
+  "poznamka": null,
+  "adresa": {
+    "mesto": "Praha",
+    "ulice": "Vinohradská 25"
+  },
+  "konicky": [
+    "fotbal",
+    "programovani",
+    "cteni"
+  ]
+}
